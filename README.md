@@ -84,7 +84,7 @@ qa-portfolio/
 
 * LinkedIn: [https://www.linkedin.com/in/renan-lippi](https://www.linkedin.com/in/renan-lippi)
 * GitHub: [https://github.com/RenanLippi](https://github.com/RenanLippi)
-* Email: renanlippi£hotmail.com
+* Email: renanlippi@hotmail.com
 
 ---
 
